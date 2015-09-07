@@ -1,8 +1,10 @@
 <?php
 
-use \MarcosSegovia\Pomodoro\Pomodoro;
+namespace MarcosSegovia\PomodoroTest;
 
-class PomodoroTest extends PHPUnit_Framework_TestCase
+use MarcosSegovia\Pomodoro\Pomodoro;
+
+class PomodoroTest extends \PHPUnit_Framework_TestCase
 {
     private $pomodoro;
 

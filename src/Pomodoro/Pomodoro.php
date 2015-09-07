@@ -1,6 +1,5 @@
 <?php
 
-
 namespace MarcosSegovia\Pomodoro;
 
 class Pomodoro
