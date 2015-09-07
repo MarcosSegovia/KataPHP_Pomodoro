@@ -15,8 +15,8 @@
         "phpunit/phpunit": "4.7.*"
     },
     "autoload":{
-        "psr-0":{
-            "MarcosSegovia":"src/"
+        "psr-4":{
+            "MarcosSegovia\\":"src/"
         }
     }
 }
